@@ -13,10 +13,6 @@ Connect:
   </a>
 </div>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=nishitpatel01&style=flat-square&color=blue" alt=""/>
-<br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishitpatel01)](https://git.io/streak-stats)
 <br/>
 
@@ -28,6 +24,10 @@ Connect:
 
 <!--
 **nishitpatel01/nishitpatel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=nishitpatel01&style=flat-square&color=blue" alt=""/>
+<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif" width="400" height="250"/>
