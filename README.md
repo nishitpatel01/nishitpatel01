@@ -16,7 +16,8 @@ Connect:
 <br/>
 <img src="https://komarev.com/ghpvc/?username=nishitpatel01&style=flat-square&color=blue" alt=""/>
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishitpatel01&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishitpatel01)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
