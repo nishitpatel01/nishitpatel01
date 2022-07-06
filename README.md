@@ -22,6 +22,17 @@ Connect:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishitpatel01&layout=compact)](https://github.com/nishitpatel01/github-readme-stats)
 
+<br/>
+
+
+
+<!--
+**nishitpatel01/nishitpatel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif" width="400" height="250"/>
+</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" alt="R Studio" width="40" height="40"/>&nbsp;
@@ -31,13 +42,6 @@ Connect:
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-</div>
-
-<!--
-**nishitpatel01/nishitpatel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif" width="400" height="250"/>
 </div>
 
 
