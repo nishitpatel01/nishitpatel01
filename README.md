@@ -1,7 +1,41 @@
 ### Hi there 👋
 
+
+I am an experienced data scientist with more than 10 years of experience building large scale data and machine learning and data analytics platforms and solutions. I am currently an AI/ML & Data Analytics specialist engineer at Google Cloud. 
+
+Connect: 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nishitp/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/NishitP0101">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=nishitpatel01&style=flat-square&color=blue" alt=""/>
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishitpatel01&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" alt="R Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3" alt="D3.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+</div>
+
 <!--
 **nishitpatel01/nishitpatel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif" width="400" height="250"/>
+</div>
+
 
 Here are some ideas to get you started:
 
