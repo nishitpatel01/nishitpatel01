@@ -18,6 +18,9 @@ Connect:
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishitpatel01)](https://git.io/streak-stats)
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishitpatel01&layout=compact)](https://github.com/nishitpatel01/github-readme-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
