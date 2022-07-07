@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am an experienced data scientist with more than 10 years of experience building large scale machine learning and data analytics platforms and solutions. I am currently an AI/ML & Data Analytics specialist engineer at Google Cloud. 
+I am an experienced data scientist & engineer with more than 10 years of experience building large scale machine learning and data analytics platforms and solutions. I am currently an AI/ML & Data Analytics specialist engineer at Google Cloud. 
 
 Connect: 
 <div id="badges">
