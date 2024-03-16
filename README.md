@@ -5,10 +5,11 @@ I am an experienced data scientist & engineer with more than 10 years of experie
 
 
 
-<!--
-**nishitpatel01/nishitpatel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishitpatel01)](https://git.io/streak-stats)
+<br/> 
+
 Connect: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nishitp/">
@@ -41,7 +42,8 @@ Connect:
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 </div>
 
-
+<!--
+**nishitpatel01/nishitpatel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
